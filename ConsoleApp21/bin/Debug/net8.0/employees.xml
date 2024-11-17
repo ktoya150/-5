@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee xsi:type="Cashier">
+    <Name>Артем</Name>
+    <Experience>4</Experience>
+  </Employee>
+  <Employee xsi:type="Technician">
+    <Name>Ал?на</Name>
+    <Experience>1</Experience>
+  </Employee>
+</ArrayOfEmployee>

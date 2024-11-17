@@ -1,0 +1,14 @@
+C:\Users\Артемий\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\net8.0\ConsoleApp21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артемий\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\net8.0\ConsoleApp21.AssemblyInfoInputs.cache
+C:\Users\Артемий\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\net8.0\ConsoleApp21.AssemblyInfo.cs
+C:\Users\Артемий\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\net8.0\ConsoleApp21.csproj.CoreCompileInputs.cache
+C:\Users\Артемий\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\net8.0\ConsoleApp21.exe
+C:\Users\Артемий\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\net8.0\ConsoleApp21.deps.json
+C:\Users\Артемий\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\net8.0\ConsoleApp21.runtimeconfig.json
+C:\Users\Артемий\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\net8.0\ConsoleApp21.dll
+C:\Users\Артемий\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\net8.0\ConsoleApp21.pdb
+C:\Users\Артемий\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\net8.0\ConsoleApp21.dll
+C:\Users\Артемий\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\net8.0\refint\ConsoleApp21.dll
+C:\Users\Артемий\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\net8.0\ConsoleApp21.pdb
+C:\Users\Артемий\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\net8.0\ConsoleApp21.genruntimeconfig.cache
+C:\Users\Артемий\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\net8.0\ref\ConsoleApp21.dll
